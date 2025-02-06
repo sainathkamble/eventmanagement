@@ -1,2 +1,2 @@
 # Event-Management-Platform
-Full-Stack Assignment by Persist Ventures
+Full-Stack Assignment by Swissmote Inc.
